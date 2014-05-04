@@ -3,7 +3,9 @@ Tugas-Besar
 PROJECT-TUBES1
 ==============
 
-<H2>Kelompok Layanan Web</h2>
+<h1 align=center>
+<font color=#FFFF00 face=calibri> Kelompok Layanan Web</font>
+</h1>
 <br />
 <a href="https://avatars0.githubusercontent.com/u/7277073?s=400"></a>
 117006153 <a href="https://github.com/IsmaQinwanDaniah">Isma Qinwan Daniah</a>
