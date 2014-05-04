@@ -3,9 +3,6 @@ Tugas-Besar
 PROJECT-TUBES1
 ==============
 
-Tugas Besar 1 Layanan Web
--------------------------
-
 <H2>Kelompok Layanan Web</h2>
 <br />
 <a href="https://avatars0.githubusercontent.com/u/7277073?s=400"></a>
